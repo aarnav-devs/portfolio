@@ -20,7 +20,7 @@ export const Skills: React.FC = () => {
             Core Technical Disciplines
           </h2>
           <p className="text-sm text-[#666666] leading-relaxed">
-            A focused toolkit spanning mathematical foundations, neural architectures, and software engineering.
+            A practical toolkit for numerical computing, data preparation, visualization, and machine learning.
           </p>
 
           {/* Active skill description callout */}
@@ -31,7 +31,7 @@ export const Skills: React.FC = () => {
               </p>
             ) : (
               <p className="text-xs text-[#888888] font-mono">
-                Hover any discipline to review specific applications.
+                Hover any technology to explore its applications.
               </p>
             )}
           </div>

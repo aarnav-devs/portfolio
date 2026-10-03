@@ -14,16 +14,28 @@ export const SKILLS: SkillNode[] = [
     description: 'Relational database querying, schema design, table joins, aggregations, and tabular data extraction.'
   },
   {
-    id: 'data-science',
-    name: 'Data Science',
-    category: 'core',
-    description: 'Formulating empirical hypotheses, experimental methodology, exploratory data exploration, and data preparation.'
+    id: 'numpy',
+    name: 'NumPy',
+    category: 'data',
+    description: 'Efficient numerical computing with multidimensional arrays, vectorized operations, and foundational statistical calculations.'
   },
   {
-    id: 'data-analysis',
-    name: 'Data Analysis',
-    category: 'core',
-    description: 'Statistical inspection, trend identification, correlation discovery, feature distributions, and visual interpretation.'
+    id: 'pandas',
+    name: 'Pandas',
+    category: 'data',
+    description: 'Data cleaning, transformation, joining, and exploratory analysis with Series and DataFrames.'
+  },
+  {
+    id: 'matplotlib',
+    name: 'Matplotlib',
+    category: 'data',
+    description: 'Creating clear, informative visualizations to explore distributions, compare trends, and communicate findings.'
+  },
+  {
+    id: 'scikit-learn',
+    name: 'Scikit-learn',
+    category: 'data',
+    description: 'Building and evaluating machine-learning workflows for preprocessing, classification, regression, and clustering.'
   },
   {
     id: 'machine-learning',

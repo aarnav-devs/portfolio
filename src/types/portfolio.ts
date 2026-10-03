@@ -20,6 +20,6 @@ export interface Project {
 export interface SkillNode {
   id: string;
   name: string;
-  category: 'core' | 'ai' | 'systems';
+  category: 'core' | 'ai' | 'systems' | 'data';
   description: string;
 }
