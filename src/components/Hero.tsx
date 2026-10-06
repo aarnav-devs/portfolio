@@ -109,7 +109,7 @@ export const Hero: React.FC<HeroProps> = ({ onOpenCvModal }) => {
           <div className="rounded-2xl border border-[#171717] bg-[#FAFAF8] p-2.5 shadow-[0_24px_60px_rgba(23,23,23,0.12)]">
             <div className="overflow-hidden rounded-xl border border-[#171717]/20">
               <img
-                src="/Aarnav-Garg.jpg"
+                src="/Aarnav.jpeg"
                 alt="Aarnav Garg"
                 className="block aspect-[4/5] w-full object-cover object-[center_25%]"
               />
